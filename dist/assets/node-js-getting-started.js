@@ -265,7 +265,7 @@ catch(err) {
 if (runningTests) {
   require("node-js-getting-started/tests/test-helper");
 } else {
-  require("node-js-getting-started/app")["default"].create({"name":"node-js-getting-started","version":"0.0.0.2b5dc127"});
+  require("node-js-getting-started/app")["default"].create({"name":"node-js-getting-started","version":"0.0.0.8f6a309a"});
 }
 
 /* jshint ignore:end */
