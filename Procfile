@@ -1,1 +1,1 @@
-web: node index.js
+web: ember serve --port $PORT --live-reload=false
